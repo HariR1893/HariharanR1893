@@ -13,7 +13,7 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 
 ## Demo
 
-You can view the live demo of my portfolio at [https://vercel.com/harir1893/technohacks-personal-portfolio](#).
+You can view the live demo of my portfolio at [https://hariharanr1893.vercel.app/](#).
 
 ## Features
 
