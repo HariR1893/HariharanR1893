@@ -45,4 +45,4 @@ You can view the live demo of my portfolio at [https://vercel.com/harir1893/tech
     3. Extend or modify functionality in the `script.js` file.
  
 ## License
-This project is licensed under the MIT LICENSE(LICENCE)
+This project is licensed under the [MIT LICENSE](LICENCE)
